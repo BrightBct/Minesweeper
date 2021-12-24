@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <!--menu tab-->
+    <string name="menu">Menu</string>
+    <string name="bomb">000</string>
+    <string name="smile">Smile Face</string>
+    <string name="time">000</string>
+    <string name="mode">Mode</string>
+
+    <!--mode-->
+    <string name="normal_mode">Normal Mode</string>
+    <string name="flag_mode">Flag Mode</string>
+
+    <!--setting-->
+    <string name="difficulty">Difficulty</string>
+    <string name="stat">Statistics</string>
+    <string name="reset_stat">Reset Stat</string>
+    <string name="back_to_main_page">Back to First Page</string>
+    <string name="back_to_game">Back to Game</string>
+
+    <!--Game Difficulty-->
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+
+    <!--file-->
+    <string name="setting">setting.txt</string>
+    <string name="history">history.txt</string>
+
+    <!--win-->
+    <string name="game_won">Game Won</string>
+    <string name="won_description">Congratulation, you won the game!</string>
+    <string name="time_use">Time: </string>
+    <string name="best_time">Best Time: </string>
+    <string name="games_played">Games played: </string>
+    <string name="games_won">Games won: </string>
+    <string name="seconds">seconds</string>
+    <string name="confirm">Confirm</string>
+
+    <!--press back-->
+    <string name="press_back">Press the back button again to back to main page.</string>
+    <string name="press_back_main">Press the back button again to exit the program.</string>
+
+    <!--image description-->
+    <string name="main_image_description">Show Logo At Main Page</string>
+
+    <!--main page-->
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+
+    <!--other-->
+    <string name="empty" />
+    <string name="new_line">\n</string>
+    <string name="default_time">-</string>
+
+    <string name="bomb_icon">💣</string>
+    <string name="flag_icon">🚩</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="max_time">999</string>
+    <string name="zero">0</string>
+
+    <string name="extra_0">0</string>
+    <string name="extra_1">1</string>
+
+    <integer name="font_size_18">18</integer>
+    <integer name="font_size_12">12</integer>
+    <integer name="font_size_28">28</integer>
+</resources>

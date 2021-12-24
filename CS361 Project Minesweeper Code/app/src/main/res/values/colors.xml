@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+
+    <!--Bomb&Time-->
+    <color name="green">#2BD598</color>
+    <color name="red">#FF0F0F</color>
+    <color name="white_gray">#D6D7D7</color>
+
+    <!--Bomb-->
+    <color name="for1">#0100FE</color>
+    <color name="for2">#017F01</color>
+    <color name="for3">#fE0000</color>
+    <color name="for4">#010080</color>
+    <color name="for5">#810102</color>
+    <color name="for6">#008081</color>
+    <color name="for7">#000000</color>
+    <color name="for8">#808080</color>
+    <!--Blank-->
+    <color name="blank">#C0C0C0</color>
+</resources>
