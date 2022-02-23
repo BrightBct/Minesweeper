@@ -1,4 +1,4 @@
-# CS361-Project
+# Minesweeper
 
 CS361 Mobile Application Development
 
@@ -8,4 +8,4 @@ CS361 Mobile Application Development
 
 โดยเนื้อหา Project จะเป็นการทำเกม Minesweeper โดยนำความรู้จากที่ได้เรียนมา นำมาประยุกต์ร่วมด้วย
 
-โค้ด Minesweeper: https://github.com/learntodroid/AndroidMinesweeper
+โค้ด Minesweeper ที่นำมาประยุกต์ใช้: https://github.com/learntodroid/AndroidMinesweeper
